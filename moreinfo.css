@@ -1,0 +1,204 @@
+.downloadbutton {
+  background-color: #74be17;
+  border: none;
+  height: 3em;
+  width: 10em;
+  margin-bottom: 2em;
+  margin-top: 5em;
+  font-size: 1em;
+  color: aliceblue;
+  border-radius: 7px;
+}
+
+.font2{
+    color: #3e6af2;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.font1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+.font {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: #212121;
+}
+hr {
+  height: 0.01em;
+  margin-top: 0.7em;
+  background-color: #001aff;
+}
+.text {
+  color: #212121;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.pdf {
+  width: 700px;
+  height: 900px;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  width: 550px;
+  align-items: center;
+}
+
+.moreinfo {
+  background-color: rgb(255, 255, 255);
+  padding: 2em;
+  height: 45em;
+  display: flex;
+  flex-direction: column;
+  align-items: space-between;
+  z-index: -1;
+}
+
+.jobname {
+  font-size: 0.5em;
+  color: #3e6af2;
+}
+
+.name1 {
+  font-size: 1.5em;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.myinfo {
+  margin: 0.5em;
+  font-size: 0.9em;
+}
+
+.heading {
+  font-size: 1.2em;
+  font-weight: bold;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.abouthr {
+  width: 20em;
+}
+
+.skillshr {
+  width: 10em;
+}
+.firstinfo {
+  width: 40em;
+  height: 1.5em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.about1 {
+  width: 25em;
+  font-size: 0.84em;
+  margin-top: 0.5em;
+}
+
+.aboutskills {
+  display: grid;
+  grid-template-columns: 23em 10em 10em;
+}
+
+.list {
+  margin: 0.2em;
+  list-style-type: circle;
+}
+
+.education{
+    margin-top: 0.5em;
+}
+.educationhr {
+  width: 33.5em;
+}
+.aboutedu {
+  height: 7em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around
+  
+}
+.educationpart {
+    display: flex;
+    justify-content: space-between;
+}
+
+.universityname {
+    width: 25em;
+}
+
+
+.firstdegree {
+    display: flex;
+    justify-content: space-between;
+}
+.subject{
+    width: 25em;
+    margin-left: 6em;
+}
+.seconddegree{
+    display: flex;
+    justify-content: space-between;
+}
+.universityname1 {
+  width: 26em;
+}
+.subject1{
+    width: 25em;
+    margin-left: 6em;
+}
+
+.hrex{
+    width: 33.5em;
+}
+.expert{
+    display: flex;
+    justify-content: space-between;
+}
+.work{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Experience{
+     margin-top: 0.5em;
+}
+.position{
+    width: 25em;
+}
+.companyposition{
+    margin-left: 5.6em;
+}
+.aboutcompany{
+    width: 35em;
+    margin-left: 5.6em;
+    margin-top: 0.5em;
+font-size: 0.99em;
+}
+
+.projects{
+     margin-top: 0.5em;
+}
+
+.project{
+    width: 33.5em;
+}
+.project1{
+    display: flex;
+    justify-content: space-between;
+}
+.pname{
+    display: flex;
+    justify-content: space-between;
+}
+.projectname{
+    margin-left: 5.6em;
+}
+.aboutproject{
+    margin-left: 5.6em;
+    margin-top: 0.5em;
+}

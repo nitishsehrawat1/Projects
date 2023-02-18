@@ -55,3 +55,56 @@ main{
   left: 30em;
   z-index: 0;
 }
+.image{
+  border-radius: 50%;
+  border: solid 21px #5A8523;
+  width: 8em;
+  height: 8em;
+  position: absolute;
+  z-index: 2;
+  top: 25em;
+  left: -6.5em;
+}
+.backimage{
+    position: relative;
+    bottom: 40em;
+    left: 13.8em;
+    width: 65em;
+    height: 40em;
+}
+
+.fa-solid{
+    color: #3e6af2;
+ 
+}
+.fa-envelope{
+    margin-right: .9em;
+
+}
+.fa-location-dot{
+   margin-right: 1.1em;
+
+}
+.fa-link{
+    margin-right: 1em;
+}
+.fa-phone{
+    margin-right: 1em;
+}
+.logo{
+    position: relative;
+    z-index: 1;
+    height: 2em;
+    bottom: 47.5em;
+    right: -3em;
+}
+.aboutlogo{
+    width: 18em;
+    text-align: center;
+    font-size: 0.6em;
+   position: relative;
+    z-index: 1;
+    height: 2em;
+    bottom: 79.5em;
+    right: -107em; 
+}

@@ -108,3 +108,24 @@ main{
     bottom: 79.5em;
     right: -107em; 
 }
+@media  screen and (max-width: 1092px ){
+.logo{
+    position: relative;
+    z-index: 1;
+    height: 2em;
+    bottom: 49.5em;
+    right: -69em;
+}
+
+    .aboutlogo{
+        width: 18em;
+        text-align: center;
+        font-size: 0.6em;
+       position: relative;
+        z-index: 1;
+        height: 2em;
+        bottom: 82.5em;
+        right: -107em; 
+    } 
+    
+}
